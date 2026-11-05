@@ -1,5 +1,7 @@
 # FlexControl Knob for Thetis
 
+**Windows only.** This program runs on Windows 10 and 11 only. The installer and helper files are Windows batch files and will not work on a Mac or Linux.
+
 Version 1.0.0 · by KW4EX
 
 Use the **FlexRadio FlexControl USB tuning knob** with **Thetis, Thetis HL2 and SDR-VST3** — no amplifier needed. A small stand-alone program for Windows 10/11 with its own installer.
