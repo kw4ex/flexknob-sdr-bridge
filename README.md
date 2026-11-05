@@ -4,11 +4,11 @@ Version 1.0.0 · by KW4EX
 
 Use the **FlexRadio FlexControl USB tuning knob** with **Thetis, Thetis HL2 and SDR-VST3** — no amplifier needed. A small stand-alone program for Windows 10/11 with its own installer.
 
-It is the knob part of the [KPA1500 Thetis Bridge](https://github.com/kw4ex/kpa1500-thetis-bridge), for operators who have the knob but not the Elecraft KPA1500 amplifier.
+It is the knob part of the KPA1500 Thetis/SDR Bridge ([downloads](https://github.com/kw4ex/kpa1500-sdr-bridge/releases)), for operators who have the knob but not the Elecraft KPA1500 amplifier.
 
 ## Download
 
-**Start at the [Releases page](https://github.com/kw4ex/flexknob-for-thetis/releases/latest).** The top entry marked **Latest** is the newest version; older versions stay listed below it. Click **FlexKnob_for_Thetis_v1.0.0.zip** in the **Assets** list (not "Source code"). Step-by-step instructions: [READ ME FIRST (PDF)](docs/READ%20ME%20FIRST%20-%20FlexControl%20Knob%20for%20Thetis%20v1.0.0.pdf).
+**Start at the [Releases page](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest).** The top entry marked **Latest** is the newest version; older versions stay listed below it. Click **FlexKnob_for_Thetis_v1.0.0.zip** in the **Assets** list (not "Source code"). Step-by-step instructions: [READ ME FIRST (PDF)](docs/READ%20ME%20FIRST%20-%20FlexControl%20Knob%20for%20Thetis%20v1.0.0.pdf).
 
 ## Install (short version)
 
