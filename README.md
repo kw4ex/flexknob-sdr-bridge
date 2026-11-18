@@ -10,7 +10,7 @@ It is the knob part of the KPA1500 Thetis/SDR Bridge ([downloads](https://github
 
 ## Download
 
-**Start at the [Releases page](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest).** The top entry marked **Latest** is the newest version; older versions stay listed below it. Click **FlexKnob_for_Thetis_v1.0.0.zip** in the **Assets** list (not "Source code"). Step-by-step instructions: [READ ME FIRST (PDF)](docs/READ%20ME%20FIRST%20-%20FlexControl%20Knob%20for%20Thetis%20v1.0.0.pdf).
+**Start at the [Releases page](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest).** The top entry marked **Latest** is the newest version; older versions stay listed below it. Click **FlexKnob_for_Thetis_v1.0.0.zip** in the **Assets** list (not "Source code"). Step-by-step instructions: [Guide (PDF)](docs/guides/FlexControl-Knob-for-Thetis-guide.pdf).
 
 ## Install (short version)
 
